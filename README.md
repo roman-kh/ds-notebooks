@@ -1,1 +1,1 @@
-# pynotebooks
+# Python notebooks
